@@ -1,0 +1,6 @@
+{
+  "extends": "handlebarlabs",
+  "rules": {
+    "react/state-in-constructor": [true, "always"]
+  }
+}
